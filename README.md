@@ -1,1 +1,1 @@
-Need to install node modules
+Need to install node modules (npm i)
